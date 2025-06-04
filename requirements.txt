@@ -1,0 +1,6 @@
+rosbags
+bagpy
+pandas
+cv-bridge
+opencv-python
+tqdm
