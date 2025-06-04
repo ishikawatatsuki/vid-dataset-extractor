@@ -1,6 +1,6 @@
 # VID-dataset extractor
 
-A simple python script that extracts csv files out of VID-dataset formatted in bag file.
+A simple python script that extracts csv files out of VID-dataset formatted in bag file, available in https://github.com/ZJU-FAST-Lab/VID-Dataset?tab=readme-ov-file.
 
 ## Usage
 
